@@ -9,7 +9,7 @@ const fibonacci1 = function(num) {
     }
     return fib;
 }
-// console.log(fibonacci1(5))
+console.log(fibonacci1(5))
 
 
 
